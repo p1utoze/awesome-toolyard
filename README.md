@@ -13,6 +13,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
   - [go]
   - [rust]
   - [AI Tools](#ai-tools)
+  - [Cool Utilities](#cool-utilities)
 
 ## Programming Languages
 ### Python
@@ -55,6 +56,12 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Roadmap.sh](https://roadmap.sh/)- Struggling to choose career? Check out roadmaps for popular CS jobs roles.
 - [Freedium](https://freedium.cfd/)- Bypass Medium articles paywall by just adding this extension.
 - [Github Profile Templates](https://zzetao.github.io/awesome-github-profile/)- Get instant Profile.md templates for your Github account
+- [MOOC4FREE](https://www.classcentral.com/report/free-certificates/)- Massive List of Thousands of Free Certificates and Badges for 2024
+- [LabPlot](https://labplot.kde.org/)- FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone.
+- [Free Image host](https://freeimage.host/)- Temporarily host your images on cloud (Upto 64 MB)
+- [Learn X in Y minutes](https://learnxinyminutes.com/)- Take the fastest speedrun for learning your next favourite language and for free!
+- [Open Source Alternative](https://www.opensourcealternative.to/)- Discover 500+ popular open source alternatives to your proprietary SaaS
+- [Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html)- Master your linux skills with this game.
+- [Wolfram Alpha](https://www.wolframalpha.com/)- The best organization for Mathematica, computation and Data
 
 
-  
