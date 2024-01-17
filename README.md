@@ -35,8 +35,26 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Top AI tools](https://topai.tools/)- Find the perfect AI tool for every task
 - [AI tools](https://www.producthunt.com/e/ai-tools)- A collection of AI tools from Product Hunt
 - [There's an AI for that](https://theresanaiforthat.com/)- A go to AI-search engine to find your tools
+- [TextFS](https://textfx.withgoogle.com/)- AI-powered tools for rappers, writers and wordsmiths.
 - [Perplexity AI](https://www.perplexity.ai/)- The AI search engine better than wikipedia
 - [Phind AI](https://www.phind.com/)- A search engine better than ChatGPT (Free 10 GPT4 queries per day)
+- [NAAS AI](https://naas.ai/)- Jupyter Notebook as a Service. Powerful search engine for finding templates
+
+## Cool Utilities
+- [Free for dev](https://free-for.dev/#/)- A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
+- [Free stuff](https://freestuff.dev/)- List of free service for developer to use. Some services are free forever or have a free tier at least for 1 year.
+- [OSALT](https://www.osalt.com/)- **Open Source As an Alternative** search site for various paid softwares.
+- [HOW TOs](https://tldp.org/HOWTO/HOWTO-INDEX/howtos.html)- A single page list of HOWTOs for linux
+- [YABin](https://bin.sohamsen.me/)- Similar to pastebin, to share text document online (with various file formats) 
+- [UI Vision](https://ui.vision/)- Open source alternative to AutomationAnywhwere for web automation.
+- [Down GIT](https://minhaskamal.github.io/DownGit/#/home)- Convert any github file link into a downloadable URL.
+- [docsify](https://docsify.js.org/#/?id=docsify)- A magical documentation site generator
+- [Quine](https://quine.sh/)- Get rewarded for contributing to Open Source all round year!
+- [GNOD](https://www.gnod.com/)- Compare your search results across multiple Search Engines.
+- [Certbot](https://certbot.eff.org/)- Get free SSL certificates to make your HTTP secure
+- [Roadmap.sh](https://roadmap.sh/)- Struggling to choose career? Check out roadmaps for popular CS jobs roles.
+- [Freedium](https://freedium.cfd/)- Bypass Medium articles paywall by just adding this extension.
+- [Github Profile Templates](https://zzetao.github.io/awesome-github-profile/)- Get instant Profile.md templates for your Github account
 
 
   
