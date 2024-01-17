@@ -31,5 +31,12 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Python Anywhere](https://www.pythonanywhere.com/)- Host, run, and code Python in the cloud!
 - [Python Tutor](http://pythontutor.com/)- Visualize Python code execution in your Web browser.
 
+## AI Tools
+- [Top AI tools](https://topai.tools/)- Find the perfect AI tool for every task
+- [AI tools](https://www.producthunt.com/e/ai-tools)- A collection of AI tools from Product Hunt
+- [There's an AI for that](https://theresanaiforthat.com/)- A go to AI-search engine to find your tools
+- [Perplexity AI](https://www.perplexity.ai/)- The AI search engine better than wikipedia
+- [Phind AI](https://www.phind.com/)- A search engine better than ChatGPT (Free 10 GPT4 queries per day)
+
 
   
