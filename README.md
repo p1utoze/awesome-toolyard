@@ -10,10 +10,11 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Programming Languages](#programming-languages)
   - [Python](#python)
   - [Javascript]
-  - [go]
-  - [rust]
+  - [Go](#go-lang)
+  - [Rust](#rust)
   - [AI Tools](#ai-tools)
   - [Cool Utilities](#cool-utilities)
+
 
 ## Programming Languages
 ### Python
@@ -32,6 +33,21 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Python Anywhere](https://www.pythonanywhere.com/)- Host, run, and code Python in the cloud!
 - [Python Tutor](http://pythontutor.com/)- Visualize Python code execution in your Web browser.
 
+
+### GO Lang
+- [Awesome Go](https://awesome-go.com/)- A curated list of awesome Go frameworks, libraries and softwares.
+- [Awesome GO tools](https://github.com/gobuild/awesome-go-tools)- A list of awesome Go tools. Not like awesome-go here only maintains golang awesome tools.
+- [Go by example](https://gobyexample.com/)- Learn Go by executing examples
+- [Go cheatsheet](https://devhints.io/go)- A cheatsheet for Go
+
+
+### Rust
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)- A curated list of Rust code and resources.
+- [Rust by example](https://doc.rust-lang.org/rust-by-example/)- Learn Rust by executing examples
+- [Rust Programming Language](https://doc.rust-lang.org/book/)- The ultimate bible to learn rust.
+- [Tour of Rust](https://tourofrust.com/)- An interactive hands-on Rust Guide 
+
+
 ## AI Tools
 - [Top AI tools](https://topai.tools/)- Find the perfect AI tool for every task
 - [AI tools](https://www.producthunt.com/e/ai-tools)- A collection of AI tools from Product Hunt
@@ -40,6 +56,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Perplexity AI](https://www.perplexity.ai/)- The AI search engine better than wikipedia
 - [Phind AI](https://www.phind.com/)- A search engine better than ChatGPT (Free 10 GPT4 queries per day)
 - [NAAS AI](https://naas.ai/)- Jupyter Notebook as a Service. Powerful search engine for finding templates
+
 
 ## Cool Utilities
 - [Free for dev](https://free-for.dev/#/)- A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
@@ -63,5 +80,4 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Open Source Alternative](https://www.opensourcealternative.to/)- Discover 500+ popular open source alternatives to your proprietary SaaS
 - [Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html)- Master your linux skills with this game.
 - [Wolfram Alpha](https://www.wolframalpha.com/)- The best organization for Mathematica, computation and Data
-
-
+- [Brutalist report]
