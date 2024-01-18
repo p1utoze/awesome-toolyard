@@ -22,6 +22,7 @@ Machine Learning Roadmap that gives tool stacks for each stage in AI product dev
 [Huggingface Dataset](https://huggingface.co/docs/datasets/index): Catch up with trending datasets  
 [Kaggle Datasets](https://www.kaggle.com/datasets): All-in-one place to find datasets  
 [Roboflow Datasets](https://public.roboflow.com/): Exclusive Computer Vision datasets  
+[UCI](https://uci.edu/):  
 
 
 ## IDEs  
