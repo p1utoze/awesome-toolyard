@@ -52,6 +52,7 @@ Machine Learning Roadmap that gives tool stacks for each stage in AI product dev
 [Scikit](https://scikit-learn.org/stable/):  
 [Paddle Paddle](https://www.paddlepaddle.org.cn/en):  
 [Jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html):  
+[Ivy](https://unify.ai/docs/ivy/):  
 
 ## Deployment  
 [Cyclic Prod](https://www.cyclic.sh/): 
