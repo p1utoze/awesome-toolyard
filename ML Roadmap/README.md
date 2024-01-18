@@ -7,3 +7,17 @@ This is a Machine Learning Roadmap that gives tool stacks for each stage in AI p
 ## Data Scraping
 
 ## Datasets API
+
+## IDEs
+
+## Mathematics
+
+## EDA
+
+## Visualization
+
+## Frameworks
+
+## Deployment
+
+## monitoring
