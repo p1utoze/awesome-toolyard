@@ -1,17 +1,17 @@
-This is a Machine Learning Roadmap that gives tool stacks for each stage in AI product development.
+Machine Learning Roadmap that gives tool stacks for each stage in AI product development.
 
 ## Table of Contents
 
 ## Research
 [PaperWithCode](https://paperswithcode.com/): Get the state-of-art papers with code and dataset  
-[SciHub](https://sci-hub.se/):  
+[SciHub](https://sci-hub.se/):  Access all reserach papers
 
 
 ## Environment  
-[Docker](https://www.docker.com/):  
-[PiP](https://pypi.org/project/pip/):  
-[Poetry](https://www.poetryfoundation.org/):  
-[PyEnv](https://github.com/pyenv/pyenv):  
+[Docker](https://www.docker.com/):  Containerize whatever you want!  
+[PiP](https://pypi.org/project/pip/):  Go to Package manager for Python  
+[Poetry](https://python-poetry.org/):  Python Package and dependency manager  
+[PyEnv](https://github.com/pyenv/pyenv):  Keep your environment clean  
 
 ## Data Scraping
 [WFDownloader](https://www.wfdownloader.xyz/download): Scrap A LOT of images from sites such as Printrest  
@@ -30,16 +30,17 @@ This is a Machine Learning Roadmap that gives tool stacks for each stage in AI p
 [VSCode](https://code.visualstudio.com/):   
 
 ## Mathematics
-[Pobability and Statistics](https://oli.cmu.edu/courses/probability-statistics-open-free/):  
-[https://machinelearningmastery.com/category/probability/](https://machinelearningmastery.com/category/probability/):  
+[Probability and Statistics](https://oli.cmu.edu/courses/probability-statistics-open-free/):  
+[Probability](https://machinelearningmastery.com/category/probability/):  
 [Deeplearning.ai](https://www.deeplearning.ai/):  
 [StatsQuest](https://www.youtube.com/@statquest):  
 [3Blue1Brown](https://www.youtube.com/@3blue1brown):  
 [Khan Academy](https://www.khanacademy.org/):  
+[Virgilio](https://virgili0.github.io/Virgilio/):  
 
 ## ETL
-[Spark]():  
-[Hadoop]():  
+[Spark](https://spark.apache.org/):  
+[Hadoop](https://hadoop.apache.org/):  
 
 ## Visualization  
 [Tabelu](https://www.tableau.com/):  
