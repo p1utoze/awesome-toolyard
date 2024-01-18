@@ -87,3 +87,10 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html)- Master your linux skills with this game.
 - [Wolfram Alpha](https://www.wolframalpha.com/)- The best organization for Mathematica, computation and Data
 - [Brutalist report]
+
+
+- [futurepedia](https://search.brave.com/search?q=futurepedia&source=desktop)-collection of ai tools
+- [runway ml](https://runwayml.com/)
+- [krea](https://www.krea.ai/apps/image/realtime)
+- [framer](https://www.framer.com/)
+- [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)
