@@ -87,3 +87,16 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html)- Master your linux skills with this game.
 - [Wolfram Alpha](https://www.wolframalpha.com/)- The best organization for Mathematica, computation and Data
 - [Brutalist report]
+- [aniwatch](https://aniwatch.to/)
+- [my flixer](https://myflixerx.to/home)
+- [ free games for PC ](https://steamunlocked.net/)
+- [temp mail](https://temp-mail.org/en/)
+- [movies](https://mkvcinemas.foo/)
+- [for games](https://www.unlockedgames.net/)
+- [games](https://repack-games.com/)
+- [movie](https://ww7.5movierulz.pet/)
+- [torrent](https://www.13377x.tw/)
+- [internet archive](https://archive.org/)
+- [ ebooks](https://manybooks.net/)
+- [ ebooks](https://www.planetebook.com/ebooks/)
+- 
