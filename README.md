@@ -1,7 +1,6 @@
 # ⛏awesome-toolyard [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/p1utoze/awesome-toolyard?style=social) [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/p1utoze/awesome-toolyard/main.svg)](https://results.pre-commit.ci/latest/github/p1utoze/awesome-toolyard/main)
 
 
-
 It's Yet Another curated list of awesome tools, sites, and other resources over the internet🗿<br>
 Just like a dumpyard, this repository contains random but essential and useful things that every person encounters searching for "FREE ALTERNATIVES" to bypass paywalls legally. So make sure you search the gold that suits your needs ^^
 
@@ -100,7 +99,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Open Source Alternative](https://www.opensourcealternative.to/)- Discover 500+ popular open source alternatives to your proprietary SaaS
 - [Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html)- Master your linux skills with this game.
 - [Wolfram Alpha](https://www.wolframalpha.com/)- The best organization for Mathematica, computation and Data
-- [Brutalist report]
+- [Brutalist report](https://brutalist.report/)- Daily headlines delivered to you. No Ads. No BS.
 - [aniwatch](https://aniwatch.to/)
 - [my flixer](https://myflixerx.to/home)
 - [ free games for PC ](https://steamunlocked.net/)
