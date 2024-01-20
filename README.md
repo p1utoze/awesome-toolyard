@@ -1,4 +1,5 @@
-# ⛏awesome-toolyard [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/p1utoze/awesome-toolyard?style=social)
+# ⛏awesome-toolyard [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/p1utoze/awesome-toolyard?style=social) [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/p1utoze/awesome-toolyard/main.svg)](https://results.pre-commit.ci/latest/github/p1utoze/awesome-toolyard/main)
+
 
 
 It's Yet Another curated list of awesome tools, sites, and other resources over the internet🗿<br>
