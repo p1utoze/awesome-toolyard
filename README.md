@@ -87,10 +87,22 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html)- Master your linux skills with this game.
 - [Wolfram Alpha](https://www.wolframalpha.com/)- The best organization for Mathematica, computation and Data
 - [Brutalist report]
-
-
 - [futurepedia](https://search.brave.com/search?q=futurepedia&source=desktop)-collection of ai tools
 - [runway ml](https://runwayml.com/)
 - [krea](https://www.krea.ai/apps/image/realtime)
 - [framer](https://www.framer.com/)
 - [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)
+
+## Movies (shri)
+-[Myflixer](https://myflixerz.nl/)- Recent Bollywood, Hollywood movies.
+
+## AI tools(shri)
+-[chatsonic](https://writesonic.com/chat)- similar to gpt
+-[Chatgenie](https://chatgenie.app/)- similar to gpt
+-[Frase](https://www.frase.io/)- used for word library
+-[Netus AI](https://netus.ai/)- Paraphrasing tool
+-[Google Styledrop](https://styledrop.github.io/)- image provider
+-[Vieutopia](https://www.vieutopia.com/)- image provider
+-[Topaz](https://www.topazlabs.com/) -video enhancement software
+-[Wisecut](https://www.topazlabs.com/)-  automatic video editor
+
