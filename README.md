@@ -117,4 +117,4 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [framer](https://www.framer.com/)
 
 ## Movies
--[Myflixer](https://myflixerz.nl/)- Recent Bollywood, Hollywood movies.
+- [Myflixer](https://myflixerz.nl/)- Recent Bollywood, Hollywood movies.
