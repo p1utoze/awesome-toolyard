@@ -44,7 +44,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)- A curated list of Rust code and resources.
 - [Rust by example](https://doc.rust-lang.org/rust-by-example/)- Learn Rust by executing examples
 - [Rust Programming Language](https://doc.rust-lang.org/book/)- The ultimate bible to learn rust.
-- [Tour of Rust](https://tourofrust.com/)- An interactive hands-on Rust Guide 
+- [Tour of Rust](https://tourofrust.com/)- An interactive hands-on Rust Guide
 
 ## Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)- List of Free Learning Resources In Many Languages
@@ -57,7 +57,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=qS-fKJgGwGkT96a0)- A free course offering the core concept of linear algebra with a visuals-first approach.
 - [Transformers from Scratch](https://youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&si=c7hBFLBQjCBb44Xj)- Let's build a Transformer Neural Network from Scratch together !
 - [Fireship](https://www.youtube.com/@Fireship/videos)- The best channel for daily tech news digest.
-- 
+-
 ## AI Tools
 - [Top AI tools](https://topai.tools/)- Find the perfect AI tool for every task
 - [AI tools](https://www.producthunt.com/e/ai-tools)- A collection of AI tools from Product Hunt
@@ -83,7 +83,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Free stuff](https://freestuff.dev/)- List of free service for developer to use. Some services are free forever or have a free tier at least for 1 year.
 - [OSALT](https://www.osalt.com/)- **Open Source As an Alternative** search site for various paid softwares.
 - [HOW TOs](https://tldp.org/HOWTO/HOWTO-INDEX/howtos.html)- A single page list of HOWTOs for linux
-- [YABin](https://bin.sohamsen.me/)- Similar to pastebin, to share text document online (with various file formats) 
+- [YABin](https://bin.sohamsen.me/)- Similar to pastebin, to share text document online (with various file formats)
 - [UI Vision](https://ui.vision/)- Open source alternative to AutomationAnywhwere for web automation.
 - [Down GIT](https://minhaskamal.github.io/DownGit/#/home)- Convert any github file link into a downloadable URL.
 - [docsify](https://docsify.js.org/#/?id=docsify)- A magical documentation site generator
