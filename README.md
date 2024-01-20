@@ -1,4 +1,4 @@
-# ⛏awesome-toolyard [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/p1utoze/awesome-toolyard?style=social)
+# ⛏awesome-toolyard [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/p1utoze/awesome-toolyard?style=social) [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/p1utoze/awesome-toolyard/main.svg)](https://results.pre-commit.ci/latest/github/p1utoze/awesome-toolyard/main)
 
 
 It's Yet Another curated list of awesome tools, sites, and other resources over the internet🗿<br>
@@ -49,11 +49,15 @@ Contributions are welcome. Add links through pull requests or create an issue to
 ## Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)- List of Free Learning Resources In Many Languages
 - [Z library](https://z-lib.io/)- The world's largest e-book library
+- [ ebooks](https://manybooks.net/)
+- [ ebooks](https://www.planetebook.com/ebooks/)
+
 ## Youtube
 - [MLOPs ZoomCamp](https://youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&si=tMmMOAHnkdr81EH1)- Free course about MLOps
 - [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=qS-fKJgGwGkT96a0)- A free course offering the core concept of linear algebra with a visuals-first approach.
 - [Transformers from Scratch](https://youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&si=c7hBFLBQjCBb44Xj)- Let's build a Transformer Neural Network from Scratch together !
 - [Fireship](https://www.youtube.com/@Fireship/videos)- The best channel for daily tech news digest.
+- 
 ## AI Tools
 - [Top AI tools](https://topai.tools/)- Find the perfect AI tool for every task
 - [AI tools](https://www.producthunt.com/e/ai-tools)- A collection of AI tools from Product Hunt
@@ -63,7 +67,16 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Phind AI](https://www.phind.com/)- A search engine better than ChatGPT (Free 10 GPT4 queries per day)
 - [NAAS AI](https://naas.ai/)- Jupyter Notebook as a Service. Powerful search engine for finding templates
 - [Google Dataset Search](https://datasetsearch.research.google.com/)- Search for datasets across internet.
-
+- [Jenni AI](https://jenni.ai/) - helpful AI tool for writing research papers
+- [chatsonic](https://writesonic.com/chat)- similar to gpt
+- [Chatgenie](https://chatgenie.app/)- similar to gpt
+- [Frase](https://www.frase.io/)- used for word library
+- [Netus AI](https://netus.ai/)- Paraphrasing tool
+- [Google Styledrop](https://styledrop.github.io/)- image provider
+- [Vieutopia](https://www.vieutopia.com/)- image provider
+- [Topaz](https://www.topazlabs.com/) -video enhancement software
+- [Wisecut](https://www.topazlabs.com/)-  automatic video editor
+- [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)
 
 ## Cool Utilities
 - [Free for dev](https://free-for.dev/#/)- A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
@@ -87,4 +100,21 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Open Source Alternative](https://www.opensourcealternative.to/)- Discover 500+ popular open source alternatives to your proprietary SaaS
 - [Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html)- Master your linux skills with this game.
 - [Wolfram Alpha](https://www.wolframalpha.com/)- The best organization for Mathematica, computation and Data
-- [Brutalist report]
+- [Brutalist report](https://brutalist.report/)- Daily headlines delivered to you. No Ads. No BS.
+- [aniwatch](https://aniwatch.to/)
+- [my flixer](https://myflixerx.to/home)
+- [ free games for PC ](https://steamunlocked.net/)
+- [temp mail](https://temp-mail.org/en/)
+- [movies](https://mkvcinemas.foo/)
+- [for games](https://www.unlockedgames.net/)
+- [games](https://repack-games.com/)
+- [movie](https://ww7.5movierulz.pet/)
+- [torrent](https://www.13377x.tw/)
+- [internet archive](https://archive.org/)
+- [futurepedia](https://search.brave.com/search?q=futurepedia&source=desktop)-collection of ai tools
+- [runway ml](https://runwayml.com/)
+- [krea](https://www.krea.ai/apps/image/realtime)
+- [framer](https://www.framer.com/)
+
+## Movies
+- [Myflixer](https://myflixerz.nl/)- Recent Bollywood, Hollywood movies.
