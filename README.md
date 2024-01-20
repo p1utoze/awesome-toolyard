@@ -62,7 +62,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Perplexity AI](https://www.perplexity.ai/)- The AI search engine better than wikipedia
 - [Phind AI](https://www.phind.com/)- A search engine better than ChatGPT (Free 10 GPT4 queries per day)
 - [NAAS AI](https://naas.ai/)- Jupyter Notebook as a Service. Powerful search engine for finding templates
-
+- [Jenni AI](https://jenni.ai/) - helpful AI tool for writing research papers
 
 ## Cool Utilities
 - [Free for dev](https://free-for.dev/#/)- A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
