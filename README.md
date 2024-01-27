@@ -57,6 +57,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=qS-fKJgGwGkT96a0)- A free course offering the core concept of linear algebra with a visuals-first approach.
 - [Transformers from Scratch](https://youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&si=c7hBFLBQjCBb44Xj)- Let's build a Transformer Neural Network from Scratch together !
 - [Fireship](https://www.youtube.com/@Fireship/videos)- The best channel for daily tech news digest.
+- [Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)- flutter course
 
 ## AI Tools
 - [Top AI tools](https://topai.tools/)- Find the perfect AI tool for every task
