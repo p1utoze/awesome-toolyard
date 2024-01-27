@@ -127,3 +127,4 @@ Contributions are welcome. Add links through pull requests or create an issue to
 
 ## Movies
 - [Myflixer](https://myflixerz.nl/)- Recent Bollywood, Hollywood movies.
+- [Soap2Day](https://ww2.soap2dayto.day/)-Recent Movie all Genres
