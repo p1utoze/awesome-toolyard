@@ -31,6 +31,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Anvil](https://anvil.works/)- Build web apps with nothing but Python.
 - [Python Anywhere](https://www.pythonanywhere.com/)- Host, run, and code Python in the cloud!
 - [Python Tutor](http://pythontutor.com/)- Visualize Python code execution in your Web browser.
+- [Fucking awesome Python](https://github.com/Correia-jpv/fucking-awesome-python)-A curated list of awesome Python frameworks, libraries, software and resources. 
 
 
 ### GO Lang
