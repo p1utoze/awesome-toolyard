@@ -42,7 +42,7 @@ Machine Learning Roadmap that gives tool stacks for each stage in AI product dev
 ## ETL
 - [Spark](https://spark.apache.org/):
 [Hadoop](https://hadoop.apache.org/):
- 
+
 ## Visualization
 - [Tabelu](https://www.tableau.com/):
 - [Power Bi](https://www.microsoft.com/en-us/power-platform/products/power-bi):
