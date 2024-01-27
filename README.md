@@ -40,6 +40,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Go cheatsheet](https://devhints.io/go)- A cheatsheet for Go
 
 
+
 ### Rust
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)- A curated list of Rust code and resources.
 - [Rust by example](https://doc.rust-lang.org/rust-by-example/)- Learn Rust by executing examples
@@ -51,6 +52,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Z library](https://z-lib.io/)- The world's largest e-book library
 - [ ebooks](https://manybooks.net/)
 - [ ebooks](https://www.planetebook.com/ebooks/)
+- [Internet Archive](https://archive.org/)-millions of free books, movies, software, music, websites, and more.
 
 ## Youtube
 - [MLOPs ZoomCamp](https://youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&si=tMmMOAHnkdr81EH1)- Free course about MLOps
