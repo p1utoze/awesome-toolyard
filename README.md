@@ -45,7 +45,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Rust by example](https://doc.rust-lang.org/rust-by-example/)- Learn Rust by executing examples
 - [Rust Programming Language](https://doc.rust-lang.org/book/)- The ultimate bible to learn rust.
 - [Tour of Rust](https://tourofrust.com/)- An interactive hands-on Rust Guide
-- [rustlings](https://github.com/rust-lang/rustlings)-Small exercises to get you used to reading and writing Rust code!
+- [rustlings](https://github.com/rust-lang/rustlings)-Small exercises to get you used to reading and writing Rust code
 ## Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)- List of Free Learning Resources In Many Languages
 - [Z library](https://z-lib.io/)- The world's largest e-book library
