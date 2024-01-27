@@ -13,6 +13,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
   - [Rust](#rust)
   - [AI Tools](#ai-tools)
   - [Cool Utilities](#cool-utilities)
+  - Javascript Interview Question
 
 
 ## Programming Languages
@@ -32,6 +33,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Python Anywhere](https://www.pythonanywhere.com/)- Host, run, and code Python in the cloud!
 - [Python Tutor](http://pythontutor.com/)- Visualize Python code execution in your Web browser.
 - [Python Tutorial to learn Web Scraping](https://realpython.com/beautiful-soup-web-scraper-python/)-This is a website to learn web scraping using beautiful soup module in Python
+- [Fucking awesome Python](https://github.com/Correia-jpv/fucking-awesome-python)-A curated list of awesome Python frameworks, libraries, software and resources.
 
 
 ### GO Lang
@@ -41,23 +43,26 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Go cheatsheet](https://devhints.io/go)- A cheatsheet for Go
 
 
+
 ### Rust
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)- A curated list of Rust code and resources.
 - [Rust by example](https://doc.rust-lang.org/rust-by-example/)- Learn Rust by executing examples
 - [Rust Programming Language](https://doc.rust-lang.org/book/)- The ultimate bible to learn rust.
 - [Tour of Rust](https://tourofrust.com/)- An interactive hands-on Rust Guide
-
+- [rustlings](https://github.com/rust-lang/rustlings)-Small exercises to get you used to reading and writing Rust code
 ## Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)- List of Free Learning Resources In Many Languages
 - [Z library](https://z-lib.io/)- The world's largest e-book library
 - [ ebooks](https://manybooks.net/)
 - [ ebooks](https://www.planetebook.com/ebooks/)
+- [Internet Archive](https://archive.org/)-millions of free books, movies, software, music, websites, and more.
 
 ## Youtube
 - [MLOPs ZoomCamp](https://youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&si=tMmMOAHnkdr81EH1)- Free course about MLOps
 - [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=qS-fKJgGwGkT96a0)- A free course offering the core concept of linear algebra with a visuals-first approach.
 - [Transformers from Scratch](https://youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&si=c7hBFLBQjCBb44Xj)- Let's build a Transformer Neural Network from Scratch together !
 - [Fireship](https://www.youtube.com/@Fireship/videos)- The best channel for daily tech news digest.
+- [Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)- flutter course on youtube
 
 ## AI Tools
 - [Top AI tools](https://topai.tools/)- Find the perfect AI tool for every task
@@ -116,6 +121,9 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [runway ml](https://runwayml.com/)
 - [krea](https://www.krea.ai/apps/image/realtime)
 - [framer](https://www.framer.com/)
+
+
+##javascript Interview question: https://github.com/sudheerj/javascript-interview-questions
 
 ## Movies
 - [Myflixer](https://myflixerz.nl/)- Recent Bollywood, Hollywood movies.
