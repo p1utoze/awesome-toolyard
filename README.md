@@ -54,10 +54,10 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [rustlings](https://github.com/rust-lang/rustlings)-Small exercises to get you used to reading and writing Rust code
 
 
-### javascript 
+### javascript
 - [Interview question](https://github.com/sudheerj/javascript-interview-questions)- A repository containing important Interview QnA related to Javascript
 
-  
+
 ## Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)- List of Free Learning Resources In Many Languages
 - [Z library](https://z-lib.io/)- The world's largest e-book library
@@ -94,7 +94,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Topaz](https://www.topazlabs.com/) -video enhancement software
 - [Wisecut](https://www.topazlabs.com/)-  automatic video editor
 - [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)- Adobe Firefly is a Generative AI tool for creating art.
-  
+
 
 ## Cool Utilities
 - [Free for dev](https://free-for.dev/#/)- A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
