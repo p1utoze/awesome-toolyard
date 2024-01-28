@@ -1,7 +1,7 @@
 # Every Awesome stuff in world of Natural Language Processing
 This list includes all the learning tutorials, resources, cool tools, useful websites, one-stop awesome lists and so much more.
 
-## Prompt Engineering 
+## Prompt Engineering
 
 - [Awesome ChatGPT Prompts](https://prompts.chat/)- This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering?tab=readme-ov-file#tools--code)- This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc

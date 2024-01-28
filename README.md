@@ -11,9 +11,12 @@ Contributions are welcome. Add links through pull requests or create an issue to
   - [Python](#python)
   - [Go](#go-lang)
   - [Rust](#rust)
-  - [AI Tools](#ai-tools)
-  - [Cool Utilities](#cool-utilities)
-  - Javascript Interview Question
+  - [Javascript](#javascript)
+
+- [AI Tools](#ai-tools)
+- [Cool Utilities](#cool-utilities)
+- [Games](#games)
+- [Movies](#movies)
 
 
 ## Programming Languages
@@ -43,13 +46,18 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Go cheatsheet](https://devhints.io/go)- A cheatsheet for Go
 
 
-
 ### Rust
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)- A curated list of Rust code and resources.
 - [Rust by example](https://doc.rust-lang.org/rust-by-example/)- Learn Rust by executing examples
 - [Rust Programming Language](https://doc.rust-lang.org/book/)- The ultimate bible to learn rust.
 - [Tour of Rust](https://tourofrust.com/)- An interactive hands-on Rust Guide
 - [rustlings](https://github.com/rust-lang/rustlings)-Small exercises to get you used to reading and writing Rust code
+
+
+### javascript
+- [Interview question](https://github.com/sudheerj/javascript-interview-questions)- A repository containing important Interview QnA related to Javascript
+
+
 ## Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)- List of Free Learning Resources In Many Languages
 - [Z library](https://z-lib.io/)- The world's largest e-book library
@@ -57,12 +65,14 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [ ebooks](https://www.planetebook.com/ebooks/)
 - [Internet Archive](https://archive.org/)-millions of free books, movies, software, music, websites, and more.
 
+
 ## Youtube
 - [MLOPs ZoomCamp](https://youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&si=tMmMOAHnkdr81EH1)- Free course about MLOps
 - [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=qS-fKJgGwGkT96a0)- A free course offering the core concept of linear algebra with a visuals-first approach.
 - [Transformers from Scratch](https://youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&si=c7hBFLBQjCBb44Xj)- Let's build a Transformer Neural Network from Scratch together !
 - [Fireship](https://www.youtube.com/@Fireship/videos)- The best channel for daily tech news digest.
-- [Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)- flutter course on youtube
+- [Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)- flutter course on youtube.
+
 
 ## AI Tools
 - [Top AI tools](https://topai.tools/)- Find the perfect AI tool for every task
@@ -76,13 +86,15 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Jenni AI](https://jenni.ai/) - helpful AI tool for writing research papers
 - [chatsonic](https://writesonic.com/chat)- similar to gpt
 - [Chatgenie](https://chatgenie.app/)- similar to gpt
+- [futurepedia](https://search.brave.com/search?q=futurepedia&source=desktop)- collection of ai tools
 - [Frase](https://www.frase.io/)- used for word library
 - [Netus AI](https://netus.ai/)- Paraphrasing tool
 - [Google Styledrop](https://styledrop.github.io/)- image provider
 - [Vieutopia](https://www.vieutopia.com/)- image provider
 - [Topaz](https://www.topazlabs.com/) -video enhancement software
 - [Wisecut](https://www.topazlabs.com/)-  automatic video editor
-- [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)
+- [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)- Adobe Firefly is a Generative AI tool for creating art.
+
 
 ## Cool Utilities
 - [Free for dev](https://free-for.dev/#/)- A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
@@ -108,23 +120,22 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Wolfram Alpha](https://www.wolframalpha.com/)- The best organization for Mathematica, computation and Data
 - [Brutalist report](https://brutalist.report/)- Daily headlines delivered to you. No Ads. No BS.
 - [aniwatch](https://aniwatch.to/)
-- [my flixer](https://myflixerx.to/home)
-- [ free games for PC ](https://steamunlocked.net/)
 - [temp mail](https://temp-mail.org/en/)
-- [movies](https://mkvcinemas.foo/)
-- [for games](https://www.unlockedgames.net/)
-- [games](https://repack-games.com/)
-- [movie](https://ww7.5movierulz.pet/)
 - [torrent](https://www.13377x.tw/)
 - [internet archive](https://archive.org/)
-- [futurepedia](https://search.brave.com/search?q=futurepedia&source=desktop)-collection of ai tools
 - [runway ml](https://runwayml.com/)
 - [krea](https://www.krea.ai/apps/image/realtime)
 - [framer](https://www.framer.com/)
 
 
-##javascript Interview question: https://github.com/sudheerj/javascript-interview-questions
+## Games
+- [Repack games](https://repack-games.com/)
+- [Unlocked games](https://www.unlockedgames.net/)
+- [Free games for PC ](https://steamunlocked.net/)
+- [FitGirl Repack](https://fitgirl-repacks.site/)- Official site for pirated games distributor, Fitgirl.
 
 ## Movies
 - [Myflixer](https://myflixerz.nl/)- Recent Bollywood, Hollywood movies.
 - [Soap2Day](https://ww2.soap2dayto.day/)-Recent Movie all Genres
+- [MKV cinemas](https://mkvcinemas.foo/)
+- [Movie Rulz](https://ww7.5movierulz.pet/)
