@@ -139,3 +139,15 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Soap2Day](https://ww2.soap2dayto.day/)-Recent Movie all Genres
 - [MKV cinemas](https://mkvcinemas.foo/)
 - [Movie Rulz](https://ww7.5movierulz.pet/)
+
+## Yet Another Awesome
+- [Best of ML-python](https://github.com/ml-tooling/best-of-ml-python)- A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [Data Visualization](https://github.com/javierluraschi/awesome-dataviz)- 📈 A curated list of awesome data visualization libraries and resources.
+- [Generative AI](https://github.com/steven2358/awesome-generative-ai)- A curated list of modern Generative Artificial Intelligence projects and services
+- [GCP Certifications](https://github.com/sathishvj/awesome-gcp-certifications)- All the Google Cloud Platform Certification resources you need.
+- [Installation](https://github.com/p1utoze/awesome-installation)- A curated repo containing the essential installation steps required in a developer's life.
+- [Jupyter](https://github.com/markusschanta/awesome-jupyter)- A curated list of awesome Jupyter projects, libraries and resources.
+- [MLOps](https://github.com/kelvins/awesome-mlops)- 😎 A curated list of awesome MLOps tools
+- [Portfolio sites](https://github.com/smaranjitghose/awesome-portfolio-websites)- A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome.
+- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)- A topic-centric list of HQ open datasets.
+- [Tunneling](https://github.com/anderspitman/awesome-tunneling)- List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
