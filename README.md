@@ -142,6 +142,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 
 ## Yet Another Awesome
 - [Best of ML-python](https://github.com/ml-tooling/best-of-ml-python)- A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [Chainer](https://github.com/chainer-community/awesome-chainer)- Chainer is a flexible framework for neural networks. This repo contains all the resources and guides.
 - [Data Visualization](https://github.com/javierluraschi/awesome-dataviz)- 📈 A curated list of awesome data visualization libraries and resources.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai)- A curated list of modern Generative Artificial Intelligence projects and services
 - [GCP Certifications](https://github.com/sathishvj/awesome-gcp-certifications)- All the Google Cloud Platform Certification resources you need.
