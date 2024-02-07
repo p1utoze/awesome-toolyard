@@ -38,7 +38,6 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Python Tutorial to learn Web Scraping](https://realpython.com/beautiful-soup-web-scraper-python/)-This is a website to learn web scraping using beautiful soup module in Python
 - [Fucking awesome Python](https://github.com/Correia-jpv/fucking-awesome-python)-A curated list of awesome Python frameworks, libraries, software and resources.
 
-
 ### GO Lang
 - [Awesome Go](https://awesome-go.com/)- A curated list of awesome Go frameworks, libraries and softwares.
 - [Awesome GO tools](https://github.com/gobuild/awesome-go-tools)- A list of awesome Go tools. Not like awesome-go here only maintains golang awesome tools.
@@ -94,6 +93,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Topaz](https://www.topazlabs.com/) -video enhancement software
 - [Wisecut](https://www.topazlabs.com/)-  automatic video editor
 - [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)- Adobe Firefly is a Generative AI tool for creating art.
+- [Papers With Code](https://paperswithcode.com/greatest)- helps to find research papers along with the relvant code on GitHub.
 
 
 ## Cool Utilities
