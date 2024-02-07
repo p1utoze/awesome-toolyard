@@ -56,6 +56,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 
 ### javascript
 - [Interview question](https://github.com/sudheerj/javascript-interview-questions)- A repository containing important Interview QnA related to Javascript
+- [Java essentials and advantages](https://youtu.be/12DSmohNbZw?si=npOuvulCTqVrGIvK)- A repository containing the basic java essentials
 
 
 ## Books
