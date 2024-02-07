@@ -94,6 +94,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Topaz](https://www.topazlabs.com/) -video enhancement software
 - [Wisecut](https://www.topazlabs.com/)-  automatic video editor
 - [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)- Adobe Firefly is a Generative AI tool for creating art.
+- [Gamma AI](https://gamma.app/) - Helpful AI for quick ppts
 
 
 ## Cool Utilities
@@ -126,6 +127,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [runway ml](https://runwayml.com/)
 - [krea](https://www.krea.ai/apps/image/realtime)
 - [framer](https://www.framer.com/)
+- [Github cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 
 ## Games
