@@ -139,6 +139,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Soap2Day](https://ww2.soap2dayto.day/)-Recent Movie all Genres
 - [MKV cinemas](https://mkvcinemas.foo/)
 - [Movie Rulz](https://ww7.5movierulz.pet/)
+- [Tamilblasters](https://www.1tamilblasters.zip/)-One site for all recent pirated movies.
 
 ## Yet Another Awesome
 - [Best of ML-python](https://github.com/ml-tooling/best-of-ml-python)- A ranked list of awesome machine learning Python libraries. Updated weekly.
