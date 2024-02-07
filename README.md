@@ -126,7 +126,8 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [runway ml](https://runwayml.com/)
 - [krea](https://www.krea.ai/apps/image/realtime)
 - [framer](https://www.framer.com/)
-
+- [Don't F*** With Paste](https://chromewebstore.google.com/detail/nkgllhigpcljnhoakjkgaieabnkmgdkb) - Helps copy pasting text where the feature is blocked
+- [Auto Login](https://chromewebstore.google.com/detail/auto-login/kjdgohfkopafhjmmlbojhaabfpndllgk)
 
 ## Games
 - [Repack games](https://repack-games.com/)
@@ -139,6 +140,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Soap2Day](https://ww2.soap2dayto.day/)-Recent Movie all Genres
 - [MKV cinemas](https://mkvcinemas.foo/)
 - [Movie Rulz](https://ww7.5movierulz.pet/)
+
 
 ## Yet Another Awesome
 - [Best of ML-python](https://github.com/ml-tooling/best-of-ml-python)- A ranked list of awesome machine learning Python libraries. Updated weekly.
