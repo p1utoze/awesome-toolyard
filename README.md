@@ -52,6 +52,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Rust Programming Language](https://doc.rust-lang.org/book/)- The ultimate bible to learn rust.
 - [Tour of Rust](https://tourofrust.com/)- An interactive hands-on Rust Guide
 - [rustlings](https://github.com/rust-lang/rustlings)-Small exercises to get you used to reading and writing Rust code
+- [Something](https://something.com)- This is something's description
 
 
 ### javascript
