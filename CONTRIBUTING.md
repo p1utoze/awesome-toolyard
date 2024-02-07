@@ -3,7 +3,7 @@
 Thank you for contributing to the **Awesome Research Tools** repository! I want to make accessing fine resource across the internet much easier and navigating across other awesome tools out there!<br>
 
 I want to make contributing to this project as easy and transparent as possible, whether it's:
-- Reporting a bug
+- Reporting a bug 
 - Discussing the current state of the code
 - Submitting a fix
 - Proposing new features
