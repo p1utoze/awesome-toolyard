@@ -126,6 +126,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [runway ml](https://runwayml.com/)
 - [krea](https://www.krea.ai/apps/image/realtime)
 - [framer](https://www.framer.com/)
+- [Aperi Solve](https://www.aperisolve.com/) - A cool utility to perform metadata,zsteg,layer analysis on images (used for steganography)
 
 
 ## Games
