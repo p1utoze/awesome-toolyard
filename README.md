@@ -64,6 +64,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [ ebooks](https://manybooks.net/)
 - [ ebooks](https://www.planetebook.com/ebooks/)
 - [Internet Archive](https://archive.org/)-millions of free books, movies, software, music, websites, and more.
+- [Lib Gen](https://www.libgen.is/)-An alternative to Z library but doesn't impose a daily download limit like Z library.
 
 
 ## Youtube
