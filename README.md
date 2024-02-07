@@ -56,7 +56,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 
 ### javascript
 - [Interview question](https://github.com/sudheerj/javascript-interview-questions)- A repository containing important Interview QnA related to Javascript
-
+- [JS Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) - A project based roadmap for learning JavaScript
 
 ## Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)- List of Free Learning Resources In Many Languages
