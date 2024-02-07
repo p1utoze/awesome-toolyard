@@ -72,7 +72,8 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Transformers from Scratch](https://youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&si=c7hBFLBQjCBb44Xj)- Let's build a Transformer Neural Network from Scratch together !
 - [Fireship](https://www.youtube.com/@Fireship/videos)- The best channel for daily tech news digest.
 - [Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)- flutter course on youtube.
-
+- [Mark Rober](https://www.youtube.com/@MarkRober)- awsome guy for creativity
+  
 
 ## AI Tools
 - [Top AI tools](https://topai.tools/)- Find the perfect AI tool for every task
