@@ -65,6 +65,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [ ebooks](https://manybooks.net/)
 - [ ebooks](https://www.planetebook.com/ebooks/)
 - [Internet Archive](https://archive.org/)-millions of free books, movies, software, music, websites, and more.
+- [Operating Systems by Galvin]( https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2017SS%20Operating%20Systems/Abraham%20Silberschatz-Operating%20System%20Concepts%20(9th,2012_12).pdf)
 - [PDF Drive](https://www.pdfdrive.com) - search engine for pdf files that has a huge collections of novels and reading material for free.
 
 
