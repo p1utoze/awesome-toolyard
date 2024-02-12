@@ -37,6 +37,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Python Tutor](http://pythontutor.com/)- Visualize Python code execution in your Web browser.
 - [Python Tutorial to learn Web Scraping](https://realpython.com/beautiful-soup-web-scraper-python/)-This is a website to learn web scraping using beautiful soup module in Python
 - [Fucking awesome Python](https://github.com/Correia-jpv/fucking-awesome-python)-A curated list of awesome Python frameworks, libraries, software and resources.
+- [Python](https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV) - complete course on building GUIs in python
 
 
 ### GO Lang
