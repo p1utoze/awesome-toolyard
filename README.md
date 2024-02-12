@@ -56,6 +56,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 
 ### javascript
 - [Interview question](https://github.com/sudheerj/javascript-interview-questions)- A repository containing important Interview QnA related to Javascript
+- [Learn Javascript](https://www.w3schools.com/js/) - Website to learn js.
 
 
 ## Books
@@ -65,6 +66,8 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [ ebooks](https://www.planetebook.com/ebooks/)
 - [Internet Archive](https://archive.org/)-millions of free books, movies, software, music, websites, and more.
 - [Lib Gen](https://www.libgen.is/)-An alternative to Z library but doesn't impose a daily download limit like Z library.
+- [Operating Systems by Galvin]( https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2017SS%20Operating%20Systems/Abraham%20Silberschatz-Operating%20System%20Concepts%20(9th,2012_12).pdf)
+- [PDF Drive](https://www.pdfdrive.com) - search engine for pdf files that has a huge collections of novels and reading material for free.
 
 
 ## Youtube
@@ -73,6 +76,8 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Transformers from Scratch](https://youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&si=c7hBFLBQjCBb44Xj)- Let's build a Transformer Neural Network from Scratch together !
 - [Fireship](https://www.youtube.com/@Fireship/videos)- The best channel for daily tech news digest.
 - [Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)- flutter course on youtube.
+- [learn](https://my.newtonschool.co/edge)- A platform to learn.
+- [Pytorch](https://www.youtube.com/watch?v=V_xro1bcAuA) - Learn Pytorch
 
 
 ## AI Tools
@@ -95,7 +100,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Topaz](https://www.topazlabs.com/) -video enhancement software
 - [Wisecut](https://www.topazlabs.com/)-  automatic video editor
 - [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)- Adobe Firefly is a Generative AI tool for creating art.
-
+- [blackbox](https://www.blackbox.ai/) - good for codes
 
 ## Cool Utilities
 - [Free for dev](https://free-for.dev/#/)- A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
@@ -127,6 +132,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [runway ml](https://runwayml.com/)
 - [krea](https://www.krea.ai/apps/image/realtime)
 - [framer](https://www.framer.com/)
+- [Aperi Solve](https://www.aperisolve.com/) - A cool utility to perform metadata,zsteg,layer analysis on images (used for steganography)
 
 
 ## Games
@@ -140,6 +146,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Soap2Day](https://ww2.soap2dayto.day/)-Recent Movie all Genres
 - [MKV cinemas](https://mkvcinemas.foo/)
 - [Movie Rulz](https://ww7.5movierulz.pet/)
+- [Fmovies](https://ww1.fmovieszfree.ne)
 
 ## Yet Another Awesome
 - [Best of ML-python](https://github.com/ml-tooling/best-of-ml-python)- A ranked list of awesome machine learning Python libraries. Updated weekly.
