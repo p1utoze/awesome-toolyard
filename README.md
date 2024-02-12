@@ -96,7 +96,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Topaz](https://www.topazlabs.com/) -video enhancement software
 - [Wisecut](https://www.topazlabs.com/)-  automatic video editor
 - [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)- Adobe Firefly is a Generative AI tool for creating art.
-
+- [blackbox](https://www.blackbox.ai/) - good for codes
 
 ## Cool Utilities
 - [Free for dev](https://free-for.dev/#/)- A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
