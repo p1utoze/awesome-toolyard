@@ -73,6 +73,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Fireship](https://www.youtube.com/@Fireship/videos)- The best channel for daily tech news digest.
 - [Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)- flutter course on youtube.
 - [learn](https://my.newtonschool.co/edge)- A platform to learn.
+- [Pytorch](https://www.youtube.com/watch?v=V_xro1bcAuA) - Learn Pytorch
 
 
 ## AI Tools
