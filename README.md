@@ -126,6 +126,8 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [runway ml](https://runwayml.com/)
 - [krea](https://www.krea.ai/apps/image/realtime)
 - [framer](https://www.framer.com/)
+- [Hugging Face](https://huggingface.co/learn/nlp-course/chapter1/1) - Join the Hugging Face community and get access to the augmented documentation experience
+- [Tensor Flow](https://www.tensorflow.org/resources/learn-ml) - about tensor flow
 
 
 ## Games
