@@ -42,7 +42,8 @@ The project adheres to certain content-formatting and quality standards for cons
 1. ### **Resource Format**:
     - Each resource should be added in the following format:
         ```
-        - [**Resource Name**](Resource URL) - *Short Description*
+        - [AI and Machine Learning for Coders] (https://www.oreilly.com/library/view/ai-and-machine/9781492078180/) - *If you're looking to make a career move from programmer to AI specialist, this is the ideal place to start.
+        Based on Laurence Moroney's extremely successful AI courses, this introductory book provides a hands-on, code-first approach to help you build confidence while you learn key topics*
         ```
     - Replace **Resource Name** with the actual name of the tool and **Resource URL** with the link to the tool.
     - Provide a brief *Short Description* highlighting the tool's purpose or key features.
