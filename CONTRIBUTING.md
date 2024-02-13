@@ -1,4 +1,4 @@
-# Contribution Guidelines for the "Awesome Research Tools" Repository
+ # Contribution Guidelines for the "Awesome Research Tools" Repository
 
 Thank you for contributing to the **Awesome Research Tools** repository! I want to make accessing fine resource across the internet much easier and navigating across other awesome tools out there!<br>
 
@@ -42,7 +42,7 @@ The project adheres to certain content-formatting and quality standards for cons
 1. ### **Resource Format**:
     - Each resource should be added in the following format:
         ```
-        - [**Resource Name**](Resource URL) - *Short Description*
+        - [**Medium**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f) - Resource for ML
         ```
     - Replace **Resource Name** with the actual name of the tool and **Resource URL** with the link to the tool.
     - Provide a brief *Short Description* highlighting the tool's purpose or key features.
