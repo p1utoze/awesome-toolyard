@@ -20,6 +20,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 
 
 ## Programming Languages
+- [Sololearn](https://www.sololearn.com/) - Online code courses and interactive tutorials for various programming languages
 ### Python
 - [Awesome Python](https://github.com/vinta/awesome-python) - Curated list for everything that falls in the Python world.
 - [Awesome Python(Web)](https://awesomepython.org/) - A NodeJS powered web page for awesome python.
