@@ -134,6 +134,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [krea](https://www.krea.ai/apps/image/realtime)
 - [framer](https://www.framer.com/)
 - [Aperi Solve](https://www.aperisolve.com/) - A cool utility to perform metadata,zsteg,layer analysis on images (used for steganography)
+- [Cyber Collector](https://t.me/cybercollectorbot) - Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 
 ## Games
