@@ -104,6 +104,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [blackbox](https://www.blackbox.ai/) - good for codes
 
 ## Cool Utilities
+- [**KopFollowers.se engagement calculator**](https://kopfollowers.se/tools/engagement-rate) - *Free Swedish-language calculator for manually entered likes, comments, and followers, reach, or views; no account or profile lookup.*
 - [Free for dev](https://free-for.dev/#/)- A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 - [Free stuff](https://freestuff.dev/)- List of free service for developer to use. Some services are free forever or have a free tier at least for 1 year.
 - [OSALT](https://www.osalt.com/)- **Open Source As an Alternative** search site for various paid softwares.
